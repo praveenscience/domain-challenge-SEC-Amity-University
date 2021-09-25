@@ -38,8 +38,8 @@ For the Top 20 Awesome Designs.
 
 ### The Challenge
 
-- Challenge: https://github.com/praveenscience/coding-ninjas-bit-mesra-challenge
-- Preview: https://rawcdn.githack.com/praveenscience/coding-ninjas-bit-mesra-challenge/a51aaeac668bffe02d56d0279337f3219bcb4367/index.html
+- Challenge: https://github.com/praveenscience/domain-challenge-SEC-Amity-University
+- Preview: https://rawcdn.githack.com/praveenscience/domain-challenge-SEC-Amity-University/f54a1ca5ac37a5ea4cc27cd0b202015697f43c3d/index.html
 - Raw GitHack: https://raw.githack.com/
 
 All the Best!
