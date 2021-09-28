@@ -14,7 +14,7 @@ The rules are simple.
 
 ## Prize: A free Portfolio
 
-For the Top 20 Awesome Designs.
+For the Top 15 Awesome Designs.
 
 ## Resources
 
